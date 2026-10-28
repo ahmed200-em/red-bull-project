@@ -27,8 +27,6 @@ Built with **vanilla HTML, CSS, and JavaScript**, this project is also a practic
 
 **[Visit the website on Vercel](https://red-bull-sigma.vercel.app/)**
 
-Replace `YOUR_VERCEL_URL` with the actual URL of your deployment.
-
 ---
 
 ## 📸 Screenshots
@@ -36,16 +34,16 @@ Replace `YOUR_VERCEL_URL` with the actual URL of your deployment.
 ### 💻 Desktop Version
 
 <p align="center">
-  <img src="screenshots/desktop.png" alt="Red Bull landing page desktop version" width="100%">
+  <img src="assets/screenshots/red-bull-sigma.vercel.app_.png" alt="Red Bull landing page desktop version" width="100%">
 </p>
 
 ### 📱 Mobile Version
 
 <p align="center">
-  <img src="screenshots/mobile.png" alt="Red Bull landing page mobile version" width="320">
+  <img src="assets/screenshots/mobile-iPhone_17_Pro_Max.png" alt="Red Bull landing page mobile version" width="320">
 </p>
 
-> Add a real mobile screenshot at `screenshots/mobile.png`. Capture the page in your browser's responsive/device mode at a phone-sized viewport, such as 390 × 844. The mobile preview will display once that file is committed to the repository.
+> Explore the Red Bull landing page on both desktop and mobile, with immersive visuals, bold typography, dynamic effects, and a responsive layout designed to deliver an engaging and seamless experience across all screen sizes.
 
 ---
 
@@ -90,7 +88,7 @@ Red-Bull-Landing-Page/
 └── README.md               # Readme file
 ```
 
-> This is an example structure. Update file and folder names to match your actual repository.
+> The project is organized into folders and files, each serving a specific purpose to keep the code clean, structured, and easy to navigate.
 
 ---
 
