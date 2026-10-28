@@ -4,7 +4,7 @@
 
 ### A Red Bull-inspired landing page built with HTML, CSS & JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-DB001B?style=for-the-badge)](YOUR_VERCEL_URL)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-DB001B?style=for-the-badge)](https://red-bull-sigma.vercel.app/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -25,7 +25,7 @@ Built with **vanilla HTML, CSS, and JavaScript**, this project is also a practic
 
 ## 🌐 Live Demo
 
-**[Visit the website on Vercel](YOUR_VERCEL_URL)**
+**[Visit the website on Vercel](https://red-bull-sigma.vercel.app/)**
 
 Replace `YOUR_VERCEL_URL` with the actual URL of your deployment.
 
@@ -78,14 +78,16 @@ Replace `YOUR_VERCEL_URL` with the actual URL of your deployment.
 
 ```text
 Red-Bull-Landing-Page/
-├── assets/             # Images and other assets
-├── screenshots/
-│   ├── desktop.png     # Desktop preview
-│   └── mobile.png      # Mobile preview
-├── index.html          # Main page
-├── style.css           # Main stylesheet (adjust if named differently)
-├── script.js           # JavaScript (adjust if named differently)
-└── README.md
+├── assets/                 # Images and other assets
+|    └── screenshots/
+│       ├── desktop.png     # Desktop preview
+│       └── mobile.png      # Mobile preview
+├── javascipt/
+|   └── script.js           # JavaScript
+├── style/
+|   └── styles.css          # Main stylesheet
+├── index.html              # Main page
+└── README.md               # Readme file
 ```
 
 > This is an example structure. Update file and folder names to match your actual repository.
@@ -101,15 +103,13 @@ If Git is not installed, get it from [git-scm.com](https://git-scm.com/).
 ### 2. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ahmed200-em/red-bull-project
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's HTTPS URL.
 
 ### 3. Enter the project folder
 
 ```bash
-cd Red-Bull-Landing-Page
+cd red-bull-project
 ```
 
 Use the actual folder name created by Git if it is different.
@@ -125,7 +125,7 @@ This plain HTML/CSS/JavaScript project normally does not require `npm install` o
 
 ## 👀 Just Want to View It?
 
-Open the [Vercel live demo](YOUR_VERCEL_URL). You don't need to clone or install anything just to browse the website.
+Open the [Vercel live demo](https://red-bull-sigma.vercel.app/). You don't need to clone or install anything just to browse the website.
 
 ---
 
@@ -143,7 +143,7 @@ Open the [Vercel live demo](YOUR_VERCEL_URL). You don't need to clone or install
 **Ahmed Elmakrini**
 
 - GitHub: [@ahmed200-em](https://github.com/ahmed200-em)
-- Portfolio: [Visit my portfolio](https://modern-portfolio-q7ouwj0lj-ahmed200-ems-projects.vercel.app/)
+- Portfolio: [Visit my portfolio](https://modern-portfolio-93c7xd0ub-ahmed200-ems-projects.vercel.app/)
 
 ---
 
